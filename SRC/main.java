@@ -1,0 +1,3 @@
+Pablic class Main{
+
+}
